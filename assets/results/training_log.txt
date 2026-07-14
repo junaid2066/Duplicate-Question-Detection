@@ -1,0 +1,38 @@
+=== Epoch 1/5 ===
+Train loss=0.6897 acc=0.6656 f1=0.5627
+Val   loss=0.4283 acc=0.7967 f1=0.7427
+Saved best model (best_val_f1=0.7427)
+
+
+=== Epoch 2/5 ===
+Train loss=0.4201 acc=0.8027 f1=0.7371
+Val   loss=0.3742 acc=0.8317 f1=0.7795
+Saved best model (best_val_f1=0.7795)
+
+
+=== Epoch 3/5 ===
+Train loss=0.3547 acc=0.8413 f1=0.7895
+Val   loss=0.3545 acc=0.8438 f1=0.8012
+Saved best model (best_val_f1=0.8012)
+
+
+=== Epoch 4/5 ===
+Train loss=0.3131 acc=0.8643 f1=0.8203
+Val   loss=0.3523 acc=0.8488 f1=0.8082
+Saved best model (best_val_f1=0.8082)
+
+=== Epoch 5/5 ===
+Train loss=0.2857 acc=0.8790 f1=0.8400
+Val   loss=0.3562 acc=0.8503 f1=0.8095
+Saved best model (best_val_f1=0.8095)
+
+
+Final Val Acc: 0.8503289202512654 F1: 0.8095338005119382
+              precision    recall  f1-score   support
+
+           0     0.9123    0.8438    0.8767     38257
+           1     0.7636    0.8614    0.8095     22396
+
+    accuracy                         0.8503     60653
+   macro avg     0.8379    0.8526    0.8431     60653
+weighted avg     0.8574    0.8503    0.8519     60653
