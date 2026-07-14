@@ -159,7 +159,7 @@ When this work is published, add the manuscript citation here:
 ```bibtex
 @article{junaid2026hybrid,
   title   = {Hybrid Siamese Network for Duplicate Question Detection},
-  author  = {Muhammad Junaid and Co-authors},
+  author  = {Meherzadi Muntaha, Muhammad Junaid Naveed Hussain and Rana Fayyaz Ahmad},
   journal = {To be added},
   year    = {2026}
 }
