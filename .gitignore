@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials and environment files
+.env
+kaggle.json
+
+# Datasets, embeddings, and trained weights
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+*.pth
+*.pt
+*.ckpt
+glove.6B*.txt
+glove.6B.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
